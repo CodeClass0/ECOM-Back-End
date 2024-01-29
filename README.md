@@ -12,7 +12,7 @@ This application demonstrates the usage of Object-Relational Mapping, or ORM. It
 The installation instructions are simple. Clone the repository to your local device, run NPM Install, and then you can use Insomnia to test its functionality.
 <a id="item-two"></a>
 ## Usage
-Utilize Insomnia to test for functionality. You can view a sample video [here]().
+Utilize Insomnia to test for functionality. You can view a sample video [here](https://app.screencastify.com/v3/watch/C2Is3o3skbI1akwghbIb).
 <a id="item-three"></a>
 ## License
 
